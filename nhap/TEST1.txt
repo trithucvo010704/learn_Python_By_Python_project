@@ -1,0 +1,2 @@
+mang sau khi sap xep : 20 11 3 3 3 
+ tong cac ptu am trong mang : 0

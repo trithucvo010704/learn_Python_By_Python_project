@@ -1,0 +1,2 @@
+1 2 3 5 9 
+ tong cac phan tu am la : 0
