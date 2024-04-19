@@ -8,4 +8,4 @@
 
 # Cách vòng for hoạt động
 
-# còn một số đoạn vẫn lỗi tùm lum vì chưa học qua cơ bản Python (Khắc phục project sau s)
+# còn một số đoạn vẫn lỗi tùm lum vì chưa học qua cơ bản Python (Khắc phục project sau )
